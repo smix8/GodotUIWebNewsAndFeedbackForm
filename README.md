@@ -1,10 +1,10 @@
 
 # Godot UI InGame Web News and User Feedback Form
 Example project made with Godot 3.2
-News Example uses Google Drive for hosting text and image files
-Feedback Example uses Google Forms for collecting user feedback
 
 ![ingame_web_request](https://user-images.githubusercontent.com/52464204/71317504-7ece0200-2482-11ea-853c-e046a3fb63b3.gif)
+
+News Example uses Google Drive for hosting text and image files and Feedback Example uses Google Forms for collecting user feedback.
 
 ## Features | Examples:
 - Template scene for showing ingame news and allowing users to send feedback with an ingame form
