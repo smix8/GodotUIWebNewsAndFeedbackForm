@@ -6,6 +6,8 @@ Example project made with Godot 3.2
 
 News Example uses Google Drive for hosting text and image files and Feedback Example uses Google Forms for collecting user feedback.
 
+No longer developed so archived.
+
 ## Features | Examples:
 - Template scene for showing ingame news and allowing users to send feedback with an ingame form
 - Example for loading news data on button press from a web url that hosts a json file, e.g. your game server or webpage
@@ -51,7 +53,4 @@ If you don't prepare this everything will be send and show no error but the form
 
 
 ## License
-Roboto font has its own Apache license. MIT or my personal 'Don't care' license everything else. Do whatever you want with this example and keep your users updated with news while collecting their feedback in Godot.
-
-## Known Issues
-...
+Roboto font has its own Apache license. My own stuff is MIT.
